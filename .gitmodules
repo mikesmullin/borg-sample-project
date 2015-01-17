@@ -1,0 +1,3 @@
+[submodule "scripts/vendor/resources"]
+	path = scripts/vendor/resources
+	url = git@github.com:borg-scripts/resources.git
